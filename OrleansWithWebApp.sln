@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrleanWithWebApp", "OrleanWithWebApp\OrleanWithWebApp.csproj", "{64FDA14A-76D9-409F-A5C4-BAB2FB8D6D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrleansWithWebApp", "OrleansWithWebApp\OrleansWithWebApp.csproj", "{64FDA14A-76D9-409F-A5C4-BAB2FB8D6D6B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedOrleansInterface", "SharedOrleansInterface\SharedOrleansInterface.csproj", "{745C6EFF-AC0F-43FF-8DFE-63817ABBF7F6}"
 EndProject

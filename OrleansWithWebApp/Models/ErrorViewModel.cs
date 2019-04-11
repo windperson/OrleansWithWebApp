@@ -1,6 +1,6 @@
 using System;
 
-namespace OrleanWithWebApp.Models
+namespace OrleansWithWebApp.Models
 {
     public class ErrorViewModel
     {
